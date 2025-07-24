@@ -2,8 +2,8 @@
 
 
 ## Documentation
-https://wiki.wayforpay.com/
-https://help.wayforpay.com/uk
+- https://wiki.wayforpay.com/
+- https://help.wayforpay.com/uk
 
 
 ## Test payment
